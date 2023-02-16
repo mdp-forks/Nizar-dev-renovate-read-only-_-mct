@@ -9,5 +9,16 @@
   <artifactId>dao</artifactId>
   <version>3.5.6</version>
 </dependency>
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+			<version>4.5.5</version>
+		</dependency>
+		<dependency>
+  <groupId>com.manorrock.oyena</groupId>
+  <artifactId>project</artifactId>
+  <version>23.1.0</version>
+  <type>pom</type>
+</dependency>
 	</dependencies>
 </project>
